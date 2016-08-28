@@ -19,8 +19,11 @@ description: > # this means to ignore newlines until "baseurl:"
   40palcev — записки 2-х путешественников и кулинаров.
   Пишем сюда где были, что видели, как кормят и чем живут.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://40palcev.github.io/40palcev" # the base hostname & protocol for your site
-twitter_username: 40palcev
+url: "https://40palcev.github.io" # the base hostname & protocol for your site
+
+# twitter_username: 40palcev TODO: Start twitter?
+instagram_username: 40palcev
+vk_username: 40palcev
 
 # Build settings
 markdown: kramdown
