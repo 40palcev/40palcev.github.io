@@ -2,7 +2,8 @@
 layout: post
 title:  Ирландский акцент
 date:   2016-08-26 21:41:32 +0300
-tags: [travel, Nick, Ireland, Dublin, FAQ]
+tags: [travel, Ireland, Dublin, FAQ]
+author: Nick
 ---
 
 [40palcev/#ТыМнеЯТебе](https://vk.com/topic-127576609_34555436)

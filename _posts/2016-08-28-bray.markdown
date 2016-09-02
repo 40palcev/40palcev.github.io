@@ -2,7 +2,8 @@
 layout: post
 title:  Bré
 date:   2016-08-28 19:43:32 +0300
-tags: [travel, Lera, Ireland, Bray]
+tags: [travel, Ireland, Bray]
+author: Lera
 ---
 
 Угадайте, чей чемодан привезли в&nbsp;среду?  

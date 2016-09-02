@@ -37,3 +37,18 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+.author
+{
+	width: 100px;
+	height: 100px;
+
+	border-radius: 50%;
+
+	float: left;
+}
+
+.post-header
+{
+	margin-left: 110px;
+}

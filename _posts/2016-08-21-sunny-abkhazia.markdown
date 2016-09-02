@@ -2,7 +2,8 @@
 layout: post
 title:  Солнечная Абхазия
 date:   2016-08-21 11:41:32 +0300
-tags: [travel, Nick, Abkhazia, sea]
+tags: [travel, Abkhazia, sea]
+author: Nick
 ---
 10&nbsp;дней на&nbsp;горном побережье были по&nbsp;настоящему охуенными: гиганские сосны, гул цикад, прозрачное море, горы над облаками и&nbsp;ледяные бурлящие реки&nbsp;&mdash; таким мне запомнится лето в&nbsp;Абхазии.
 

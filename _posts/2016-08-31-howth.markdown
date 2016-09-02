@@ -2,7 +2,8 @@
 layout: post
 title:  Dublin Phoenix Park and Howth
 date:   2016-08-31 21:43:32 +0300
-tags:   [travel, Lera, Ireland, Dublin, Howth, Phoenix Park]
+tags:   [travel, Ireland, Dublin, Howth, Phoenix Park]
+author: Lera
 ---
 
 В&nbsp;конце прошлой недели события происходили быстрее, чем мы&nbsp;успевали о&nbsp;них писать. 

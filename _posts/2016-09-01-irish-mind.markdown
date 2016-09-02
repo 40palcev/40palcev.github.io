@@ -2,7 +2,8 @@
 layout: post
 title:  Про отношение ирландцев
 date:   2016-09-01 22:41:32 +0300
-tags: [travel, Nick, Ireland, FAQ]
+tags: [travel, Ireland, FAQ]
+author: Nick
 ---
 Наш читатель, Святослав из&nbsp;ветренного Петербурга, [спрашивает](https://vk.com/topic-127576609_34555436?post=4): 
 
