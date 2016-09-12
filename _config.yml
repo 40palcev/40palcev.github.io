@@ -28,3 +28,7 @@ vk_username: 40palcev
 # Build settings
 markdown: kramdown
 theme: minima
+
+google_analytics: UA-83315822-1
+disqus:
+    shortname: 40palcev
